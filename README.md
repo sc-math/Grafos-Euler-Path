@@ -1,4 +1,4 @@
-# Grafos-Euler-Path
+# Grafos Euler Path
 
 Repositório da Atividade realizada na disciplina de Teoria de Grafos.
 
